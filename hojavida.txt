@@ -4,3 +4,6 @@ FORMA  TES_ENVIO_TRANSFERENCIA_SOC                 P_CAMBIAR_CANAL           LIN
 JST_TESORERIAS.pkf_transferencia_socio			LINEA 776  			jst_tesorerias.pkf_transferencia_socio.prc_transferencia_pendiente
 JST_TESORERIAS.pkf_transferencia_socio			LINEA 1577  		fisja.pk_transaccion.p_completatrans
 JST_TESORERIAS.pkf_transferencia_socio          linea 2044   		fisja.pk_transaccion.p_completatrans
+
+
+otro cambio
